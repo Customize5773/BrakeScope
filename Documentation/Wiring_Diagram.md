@@ -124,4 +124,3 @@ graph LR
 > 1. Upload `accelerometer_reader.ino` to Arduino  
 > 2. Open Processing visualization  
 > 3. Run car down test track with magnets engaged  
-```
