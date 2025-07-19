@@ -82,7 +82,29 @@ E[Neodymium Magnets] -->|Mounted under| F[Test Track]
 ## 4. Data Collection Protocol  
 ### 4.1 Filename Convention  
 `YYYYMMDD_Material_Thickness_FieldStrength.csv`  
-Example: `20250719_Al_2mm_0.7T.csv`  
+Example: `20250719_Al_2mm_0.7T.csv`
+
+```csv
+# MATERIAL: Aluminum 6061
+# THICKNESS: 2.0 (mm)
+# MAGNET_TYPE: NdFeB N52
+# FIELD_STRENGTH: 0.7 (T)
+# INIT_VELOCITY: 1.8 (m/s)
+# TEMPERATURE: 23.1 (C)
+# HUMIDITY: 45 (%)
+# OPERATOR: J.Doe
+# NOTES: Baseline test with new Halbach array
+timestamp,sensor1_raw,sensor1_freq,sensor1_amp,sensor2_raw,sensor2_freq,sensor2_amp
+0,-9.81,0.0,0.0,-9.80,0.0,0.0
+10,-10.12,0.0,0.12,-9.85,0.0,0.05
+20,-12.35,15.6,2.54,-10.20,12.1,1.87
+30,-14.72,18.3,3.21,-11.45,15.7,2.33
+40,-13.85,17.2,2.98,-12.10,14.5,2.15
+50,-11.20,16.5,1.87,-10.75,13.2,1.64
+60,-10.05,15.1,0.95,-9.90,10.5,0.82
+70,-9.83,5.2,0.15,-9.81,4.8,0.12
+80,-9.82,0.0,0.0,-9.80,0.0,0.0
+```
 
 ### 4.2 Metadata Requirements  
 Include in CSV header:  
