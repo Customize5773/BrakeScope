@@ -115,7 +115,8 @@ graph LR
 ## Example Setup Photos
 <img width="1178" height="458" alt="FZXDL1TMBZLGL3W" src="https://github.com/user-attachments/assets/fa54d086-b309-4a2c-9c79-31af457dd561" />
 <img width="995" height="716" alt="F4G6DS1MBZLGVVM" src="https://github.com/user-attachments/assets/01ba34b9-6603-4e60-b872-16a893b15430" />
-> by [`jasmynkerstens`](https://www.instructables.com/member/jasmynkerstens/)
+
+> _Source Image by [`jasmynkerstens`](https://www.instructables.com/member/jasmynkerstens/)_
 
 *Actual sensor placement on test vehicle*  
 
