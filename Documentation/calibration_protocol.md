@@ -1,5 +1,4 @@
 # Accelerometer Calibration Protocol  
-**Document Path:** `Documentation/calibration_protocol.md`  
 
 ```markdown
 # Accelerometer Calibration Protocol  
