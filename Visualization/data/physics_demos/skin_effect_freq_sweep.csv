@@ -1,0 +1,18 @@
+# DEMO: Skin Effect Frequency Sweep  
+# DESCRIPTION: Eddy current concentration vs frequency  
+# MATERIAL: Copper (3mm)  
+# MAGNET_STRENGTH: 0.7T  
+# VELOCITY: 1.0m/s  
+# NOTE: Frequencies generated via electromagnetic pulsing  
+timestamp,frequency,penetration_depth,surface_current_density  
+0,10,27.2,0.85  
+10,20,19.2,1.15  
+20,50,12.1,1.78  
+30,100,8.6,2.35  
+40,200,6.1,3.12  
+50,500,3.8,4.25  
+60,1000,2.7,5.60  
+70,2000,1.9,7.15  
+80,5000,1.2,9.80  
+90,10000,0.86,12.25  
+100,20000,0.61,15.10  
