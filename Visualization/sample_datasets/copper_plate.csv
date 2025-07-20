@@ -1,0 +1,19 @@
+# MATERIAL: Copper C110
+# THICKNESS: 1.5mm
+# MAGNET_STRENGTH: 0.75T
+# INIT_VELOCITY: 2.1m/s
+# TEMPERATURE: 22.4C
+# NOTES: Strong damping, high-frequency response
+timestamp,sensor1_raw,sensor2_raw
+0,-9.81,-9.80
+10,-9.85,-9.82
+20,-10.25,-9.90
+30,-12.85,-10.45
+40,-15.20,-12.30
+50,-14.65,-13.10
+60,-13.20,-12.55
+70,-11.85,-11.20
+80,-10.75,-10.15
+90,-10.10,-9.95
+100,-9.85,-9.83
+110,-9.82,-9.81
