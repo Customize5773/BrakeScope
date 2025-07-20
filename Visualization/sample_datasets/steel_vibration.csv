@@ -1,0 +1,23 @@
+# MATERIAL: Low-Carbon Steel
+# THICKNESS: 1.2mm
+# MAGNET_STRENGTH: 0.85T
+# INIT_VELOCITY: 1.5m/s
+# TEMPERATURE: 22.8C
+# NOTES: Magnetic sticking effect, low-frequency ringing
+timestamp,sensor1_raw,sensor2_raw
+0,-9.81,-9.80
+10,-9.82,-9.81
+20,-10.15,-9.83
+30,-11.40,-9.95
+40,-12.10,-10.30
+50,-11.85,-10.95
+60,-11.20,-11.10
+70,-10.65,-10.85
+80,-10.35,-10.40
+90,-10.15,-10.05
+100,-10.05,-9.95
+110,-9.98,-9.90
+120,-9.92,-9.85
+130,-9.87,-9.83
+140,-9.83,-9.81
+150,-9.82,-9.80
