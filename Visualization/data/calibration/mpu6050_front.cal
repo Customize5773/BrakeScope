@@ -1,0 +1,25 @@
+# MPU6050 Front Sensor Calibration
+sensor_address = 0x68
+calibration_date = 2025-07-15
+operator = J.Doe
+temperature = 22.4
+
+# Offsets (m/s²)
+offset_x = -0.0125
+offset_y = +0.0083
+offset_z = -0.1243
+
+# Scale factors
+scale_x = 1.002
+scale_y = 0.998
+scale_z = 1.001
+
+# Temperature coefficients (m/s²/°C)
+temp_coeff_x = 0.00015
+temp_coeff_y = 0.00018
+temp_coeff_z = 0.00012
+
+# Validation data (known orientation)
+horizontal_z = -9.80665
+inverted_z = +9.80665
+45deg_x = -6.932
