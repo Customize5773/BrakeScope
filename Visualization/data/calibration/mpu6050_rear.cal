@@ -1,0 +1,25 @@
+# MPU6050 Rear Sensor Calibration
+sensor_address = 0x69
+calibration_date = 2025-07-15
+operator = J.Doe
+temperature = 22.6
+
+# Offsets (m/s²)
+offset_x = +0.0152
+offset_y = -0.0067
+offset_z = +0.0876
+
+# Scale factors
+scale_x = 0.997
+scale_y = 1.003
+scale_z = 0.999
+
+# Temperature coefficients (m/s²/°C)
+temp_coeff_x = 0.00017
+temp_coeff_y = 0.00014
+temp_coeff_z = 0.00011
+
+# Validation data (known orientation)
+horizontal_z = -9.80665
+inverted_z = +9.80665
+45deg_x = -6.932
