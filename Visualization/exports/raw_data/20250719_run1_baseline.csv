@@ -1,0 +1,17 @@
+# EXPERIMENT: Baseline Vibration Profile  
+# DATE: 2025-07-19  
+# OPERATOR: A.Smith  
+# CONDITIONS: No magnets, smooth track  
+# NOTES: System vibration characterization  
+timestamp,sensor1_raw,sensor1_freq,sensor1_amp,sensor2_raw,sensor2_freq,sensor2_amp  
+0,-9.81,0.0,0.0,-9.80,0.0,0.0  
+10,-9.82,0.0,0.01,-9.81,0.0,0.01  
+20,-9.83,0.0,0.02,-9.82,0.0,0.01  
+30,-9.80,1.2,0.05,-9.79,0.8,0.03  
+40,-9.81,2.5,0.08,-9.80,1.8,0.05  
+50,-9.82,3.1,0.12,-9.81,2.2,0.07  
+60,-9.83,2.8,0.10,-9.82,2.0,0.06  
+70,-9.81,1.5,0.06,-9.80,1.2,0.04  
+80,-9.80,0.5,0.03,-9.79,0.3,0.02  
+90,-9.81,0.0,0.01,-9.80,0.0,0.01  
+100,-9.81,0.0,0.0,-9.80,0.0,0.0  
