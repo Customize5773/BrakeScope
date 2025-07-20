@@ -1,0 +1,23 @@
+# DEMO: Lenz's Law Directionality  
+# DESCRIPTION: Positive acceleration spike when approaching magnets  
+# MAGNET_STRENGTH: 0.6T  
+# MATERIAL: Aluminum 6061 (2mm)  
+# VELOCITY: 1.2m/s  
+# NOTE: Sensor positioned BEFORE magnets  
+timestamp,sensor_raw  
+0,-9.81  
+10,-9.80  
+20,-9.82  
+30,-9.50  
+40,-8.25  
+50,-6.80  
+60,-5.10  # Entering field  
+70,-3.20  
+80,+1.85  # Directional opposition peak  
+90,-4.10  
+100,-6.25  
+110,-7.80  
+120,-8.90  
+130,-9.40  
+140,-9.80  
+150,-9.81  
