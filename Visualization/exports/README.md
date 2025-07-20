@@ -1,5 +1,5 @@
 # Experimental Data Exports
-**Location:** `Visualization/exports/`
+
 
 This directory contains all data generated during live experiments and subsequent analysis. Files are automatically organized by processing stage.
 
