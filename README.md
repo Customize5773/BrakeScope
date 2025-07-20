@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-!
+<img width="461" height="461" alt="1" src="https://github.com/user-attachments/assets/46b11bd2-ec58-4066-acb7-57a6f69150d0" />
 
 ## Features
 - **Dual-sensor** acceleration monitoring (front/rear)
